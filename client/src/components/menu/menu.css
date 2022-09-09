@@ -1,0 +1,36 @@
+.switcherContainer {
+    top: 30vh;
+    position: fixed;
+    left: 4vw;
+}
+
+.arrowBtn {
+    background-color: #fff0;
+    border: 0;
+}
+
+.arrow {
+    width: 25vw;
+    height: 25vw;
+}
+
+.leftArrow {
+    transform: rotate(180deg);
+}
+
+.addToBasketBtn {
+    position: fixed;
+    left: 10vw;
+    bottom: 5vh;
+}
+
+.setBasketBtn {
+    position: fixed;
+    right: 5vw;
+    bottom: 5vh;
+}
+
+.productImage {
+    width: 40vw;
+    height: 40vw;
+}
